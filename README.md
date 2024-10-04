@@ -12,7 +12,6 @@ This project involves the analysis of transcriptomic changes in Human Airway Smo
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -63,11 +62,6 @@ This analysis provides insight into how asthma treatments modulate gene expressi
 - **RNA-Seq**: For gene expression profiling.
 - **Bioinformatics Tools**: DESeq2, R packages for statistical analysis of RNA-Seq data.
 - **Plots**: PCA, MA, Volcano, Heatmaps for data visualization.
-
----
-
-## License
-This project is open-source and licensed under the MIT License. 
 
 ---
 
